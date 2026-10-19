@@ -19,4 +19,8 @@ My experience includes working with Linux, installing Android applications on a 
 
 [Read More] https://www.linkedin.com/in/nicole-hill-04852a41a/#:~:text=www.linkedin.com/in/nicole%2Dhill%2D04852a41a 
 
+**Contact Info** 
+https://www.linkedin.com/in/nicole-hill-04852a41a/#:~:text=www.linkedin.com/in/nicole%2Dhill%2D04852a41a 
+**Email** Nicolemhill2019@gmail.com
+
 
