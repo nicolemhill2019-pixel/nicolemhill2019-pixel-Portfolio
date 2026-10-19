@@ -14,4 +14,6 @@ My experience includes working with Linux, installing Android applications on a 
 
 ** Project 2: Troubleshooting a Windows Blue Screen of Death (BSOD) ** 
 
-** Project 3: Recognizing and Responding to a Technical Support Scam **
+** Project 3: Recognizing and Responding to a Technical Support Scam ** 
+
+[Read More] https://www.linkedin.com/in/nicole-hill-04852a41a/#:~:text=www.linkedin.com/in/nicole%2Dhill%2D04852a41a
