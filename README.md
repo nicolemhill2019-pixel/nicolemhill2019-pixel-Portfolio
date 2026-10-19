@@ -10,13 +10,16 @@ My experience includes working with Linux, installing Android applications on a 
 <!--Section 2: List 3-4 key projects-->
 ## MY PORTFOLIO 
 
-* Some of the projects/ I've worked on. * 
+*Some of the projects I've worked on.* 
 
 **Project 1: Installing Android Applications on a Steam Deck Using Waydroid**
 
 **Project 2: Troubleshooting a Windows Blue Screen of Death (BSOD)** 
 
 **Project 3: Recognizing and Responding to a Technical Support Scam** 
+
+Writing Case study on all three Projects 
+https://docs.google.com/document/d/1v1LlBk8Ei_ZWIGYJhqF4v_duk5nGGjq86Fx4NsYTULg/edit?usp=sharing
 
 [Read More] https://www.linkedin.com/in/nicole-hill-04852a41a/#:~:text=www.linkedin.com/in/nicole%2Dhill%2D04852a41a 
 
