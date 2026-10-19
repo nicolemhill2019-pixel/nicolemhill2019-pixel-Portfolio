@@ -1,5 +1,6 @@
 <!--Section 1: Introduce your self-->
  ## ABOUT ME
+
 I became a certified IT technician through Goodwill Job Training Center. 
 
 I am developing my IT skills through hands-on projects, independent research, and real-world troubleshooting experiences. I enjoy learning how different operating systems and software work, solving technical problems, and finding solutions when something does not work as expected.
