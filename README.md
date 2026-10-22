@@ -19,7 +19,8 @@ My experience includes working with Linux, installing Android applications on a 
 **Project 3: Recognizing and Responding to a Technical Support Scam** 
 
 [Read More] Writing Case study on all three Projects 
-https://docs.google.com/document/d/1v1LlBk8Ei_ZWIGYJhqF4v_duk5nGGjq86Fx4NsYTULg/edit?usp=sharing
+https://docs.google.com/document/d/1v1LlBk8Ei_ZWIGYJhqF4v_duk5nGGjq86Fx4NsYTULg/edit?usp=sharing 
+https://word.cloud.microsoft/open/onedrive/?docId=768AE4CDF0E1C107%21sf44615bab9b342bfa3eb3b8a0474c41b&driveId=768ae4cdf0e1c107
 
  
 
