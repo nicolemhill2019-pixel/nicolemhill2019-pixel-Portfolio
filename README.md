@@ -8,7 +8,7 @@ I am developing my IT skills through hands-on projects, independent research, an
 My experience includes working with Linux, installing Android applications on a Steam Deck, troubleshooting Windows startup problems, and recognizing potential technical support scams. These experiences have helped me develop my research, problem-solving, and technical learning skills as I continue working toward a career in IT support. 
 
 <!--Section 2: List 3-4 key projects-->
-## MY PORTFOLIO 
+## MY PORTFOLIO ##
 
 *Some of the projects I've worked on.* 
 
